@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lsimoneau.github.io/sitemap.xml 
