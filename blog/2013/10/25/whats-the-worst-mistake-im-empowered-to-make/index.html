@@ -93,13 +93,13 @@
 
 <div class="entry-content"><p>A few days ago a coworker of mine ordered a glass of beer in a pub while waiting for some pizzas to bring back to the office. After taking a big gulp, he immediately felt a burning sensation in his mouth and throat, and knew something was wrong. It turned out that the pub had recently cleaned the beer tap lines with a potent cleaning fluid, and it hadn&rsquo;t all been flushed out. The result was that my friend spent a night in the hospital, and was unable to eat anything for over a day due to the swelling and pain in his throat. It&rsquo;s still not totally clear what his path to recovery will be like.</p>
 
-<p>When I told the story to another friend, his reaction was &ldquo;Wow. It&rsquo;s almost like, as a barman, what&rsquo;s the worst mistake I&rsquo;m empowered to make?&rdquo; And it&rsquo;s true. Literally, there&rsquo;s not a thing you can do in the execution of a bartender&rsquo;s job that is worse than serving a customer highly caustic cleaning fluid in their drink.</p>
+<p>When I told the story to another friend, his reaction was &ldquo;Wow. It&rsquo;s almost like, as a barman, what&rsquo;s the worst mistake I&rsquo;m empowered to make?&rdquo; And it&rsquo;s true. Quite literally, there&rsquo;s not a thing you can do in the execution of a bartender&rsquo;s job that is worse than serving a customer highly caustic cleaning fluid in their drink.</p>
 
 <p>And that got me thinking. What&rsquo;s the worst mistake <em>I&rsquo;m</em> empowered to make? Take the site down? Nope, pretty easy to have it back up in a few minutes, little harm done. Commit a bug to production? It would have to be a whopper. Really, the worst thing I think I&rsquo;m empowered to do is lose data. If I break something such that, even if we recover, we&rsquo;ve lost some user data, that&rsquo;s deadly. I can&rsquo;t think of any other single misstep that would be more damaging to the company.</p>
 
 <p>As soon as I came up with that answer, I realized I actually spend quite a lot of time thinking about it. Ever since the first time I shelled in to a production server, and not infrequently since, this little voice at the back of my head asks: <em>Are you about to hose any data?</em> Every time I&rsquo;m running complex migrations, or implement a new feature that alters data in a major why, it&rsquo;s always there: <em>Don&rsquo;t do the wost thing you could possibly do.</em></p>
 
-<p>Let me be clear: avoiding catastrophic fuckups isn&rsquo;t what I consider the hallmark of a great software developer, or a great anything for that matter. To be <em>great</em>, you need to succeed greatly, not simply avoid failure. But coming back to the example of the pub: this was a <em>really good</em> pub. Fantastic selection of craft beers, best pizzas in the area by a wide margin, and a very welcoming atmosphere. But I still won&rsquo;t be going back there, because, well, obviously: they literally poisonned a friend of mine.</p>
+<p>Let me be clear: avoiding catastrophic fuckups isn&rsquo;t what I consider the hallmark of a great software developer, or a great anything for that matter. To be <em>great</em>, you need to succeed greatly, not simply avoid failure. But coming back to the example of the pub: this was a <em>really good</em> pub. Fantastic selection of craft beers, best pizzas in the area by a wide margin, and a very welcoming atmosphere. But I still won&rsquo;t be going back there, because, well, obviously: they poisonned a friend of mine.</p>
 
 <p>So it&rsquo;s probably worth spending a little bit of time, every once in awhile, asking yourself what the worst possible mistake you&rsquo;re empowered to make is. And putting in place whatever safeguards seem reasonable to stop yourself from making it.</p>
 </div>
@@ -127,6 +127,12 @@
 <time datetime="2013-10-25T21:39:00+11:00" pubdate data-updated="true">Oct 25<span>th</span>, 2013</time>
       
 
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/work/'>work</a>
+  
+</span>
+
 
     </p>
     
@@ -146,6 +152,12 @@
   </footer>
 </article>
 
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
 </div>
 
 <aside class="sidebar">
@@ -159,35 +171,6 @@
       </li>
     
   </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-  <a href="https://github.com/lsimoneau">@lsimoneau</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'lsimoneau',
-            count: 0,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
@@ -207,6 +190,22 @@
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'louissimoneau';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://lsimoneau.github.io/blog/2013/10/25/whats-the-worst-mistake-im-empowered-to-make/';
+        var disqus_url = 'http://lsimoneau.github.io/blog/2013/10/25/whats-the-worst-mistake-im-empowered-to-make/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
