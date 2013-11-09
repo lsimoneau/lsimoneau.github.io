@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Productivity | Louis Simoneau]]></title>
+  <link href="http://lsimoneau.github.io/blog/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://lsimoneau.github.io/"/>
+  <updated>2013-11-09T11:09:00+11:00</updated>
+  <id>http://lsimoneau.github.io/</id>
+  <author>
+    <name><![CDATA[Louis Simoneau]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Fried on Why you Can&#8217;t Work at Work]]></title>
+    <link href="http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work/"/>
+    <updated>2010-03-05T00:00:00+11:00</updated>
+    <id>http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work</id>
+    <content type="html"><![CDATA[<p><a href="http://bigthink.com/videos/why-you-cant-work-at-work">This video</a>, from Jason Fried (<a href="http://twitter.com/jasonFried" >@jasonfried</a>) of <a href="http://37signals.com/">37signals</a>, really hit home with me. I&#8217;m often guilty of being a little quick on the trigger to interrupt people when I have a question or want their input on something. I&#8217;m going to try to put some of this theory into application in my work at SitePoint and see if it helps both me and the rest of the publishing team to focus on getting things done.</p>
+
+<p>What I take away from this, as a practical message, is the following: rely on the asynchronous nature of digital communication media to communicate with co-workers without interrupting their workflow. Simple, but it&#8217;s easy to forget when the person is working right next to you and it&#8217;s so easy to turn around and get their attention.</p>
+]]></content>
+  </entry>
+  
+</feed>

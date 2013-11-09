@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web Design | Louis Simoneau]]></title>
+  <link href="http://lsimoneau.github.io/blog/categories/web-design/atom.xml" rel="self"/>
+  <link href="http://lsimoneau.github.io/"/>
+  <updated>2013-11-09T11:09:00+11:00</updated>
+  <id>http://lsimoneau.github.io/</id>
+  <author>
+    <name><![CDATA[Louis Simoneau]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Webby Award Winners for Design, Flashblock Edition]]></title>
+    <link href="http://lsimoneau.github.io/2010/05/10/webby-award-winners-for-design-flashblock-edition/"/>
+    <updated>2010-05-10T00:00:00+10:00</updated>
+    <id>http://lsimoneau.github.io/2010/05/10/webby-award-winners-for-design-flashblock-edition</id>
+    <content type="html"><![CDATA[<p>Last week the winners of the <a href="http://www.webbyawards.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.webbyawards.com']);">2010 Webby awards</a> were announced. Jennifer Farley, one of the staff bloggers at SitePoint (where I work), recently <a href="http://www.sitepoint.com/blogs/2010/05/09/webby-award-winners-design/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.sitepoint.com']);">posted a breakdown</a> of five of the winners in design-related categories, along with her impressions of the sites in question. I think that&#8217;s a great idea, so I&#8217;m going to write my own version of that post, examining the same five winning sites.</p>
+
+<p><strong>Best Homepage/Welcome page</strong></p>
+
+<p>This category was won by <a href="http://malecopywriter.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://malecopywriter.com']);">Male Copywriter</a>. Here&#8217;s what that site looks like:</p>
+
+<p><img class="alignnone size-full wp-image-60" title="copywriter" src="http://lsimoneau.github.io/wp-content/uploads/2010/05/copywriter1.png" alt="" /></p>
+
+<p>I like the understated aesthetic and the use of black to convey authority.</p>
+
+<p><strong>Best Structure/Navigation</strong></p>
+
+<p>The winner in this category was <a href="http://www.hboimagine.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.hboimagine.com']);">HBO/Imagine</a>. Here&#8217;s a screenshot of that site:</p>
+
+<p><img class="alignnone size-full wp-image-61" title="hbo" src="http://lsimoneau.github.io/wp-content/uploads/2010/05/hbo1.png" alt="" /></p>
+
+<p>Again, a simple, clean design that really speaks to the modern web audience. I love it.</p>
+
+<p><strong>Best Use Of Animation/Motion Graphics</strong></p>
+
+<p>The winner in this category is <a href="http://thepopshoppe.com/">The Pop Shoppe</a>. A very interesting design, shown here:</p>
+
+<p><img class="alignnone size-full wp-image-63" title="popshoppe" src="http://lsimoneau.github.io/wp-content/uploads/2010/05/popshoppe1.png" alt="" /></p>
+
+<p><strong>Best Use Of Photography</strong></p>
+
+<p>This category was won by <a href="http://thinkingspace.economist.com/">The Economist: Thinking Space</a>, with a stark design that really lets the photos speak for themselves:</p>
+
+<p><img class="alignnone size-full wp-image-64" title="economist" src="http://lsimoneau.github.io/wp-content/uploads/2010/05/economist1.png" alt="" /></p>
+
+<p><strong>The Best Visual Design – Aesthetic</strong></p>
+
+<p>Finally, this coveted category went to <a href="http://www.nike.com/jumpman23/historyofflight/">Nike&#8217;s Jordan: History of Flight</a> site:</p>
+
+<p><img class="alignnone size-full wp-image-65" title="jordan" src="http://lsimoneau.github.io/wp-content/uploads/2010/05/jordan1.png" alt="" width="540" height="300" /></p>
+
+<p>Again, a minimalist style makes this website a clear winner.</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>I think the Webby awards have done a fantastic job highlighting the best of web design in 2010, across the full range of available technologies and adhering to the open principles that give the Web its true strength.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Free Wireframe Kit for Google Drawings]]></title>
+    <link href="http://lsimoneau.github.io/2010/04/19/free-wireframe-kit-for-google-drawings/"/>
+    <updated>2010-04-19T00:00:00+10:00</updated>
+    <id>http://lsimoneau.github.io/2010/04/19/free-wireframe-kit-for-google-drawings</id>
+    <content type="html"><![CDATA[<p>I&#8217;m a big fan of <a href="http://gomockingbird.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://gomockingbird.com']);">Mockingbird</a> for creating quick mockups and wireframes. It&#8217;s free, it&#8217;s online, and it does just about everything you want it to do.</p>
+
+<p>That said, a bit of choice never hurt anyone, so it&#8217;s interesting to see that Google Drawings, the recent addition to the Google Docs family, can be used quite effectively as a wireframing tool.</p>
+
+<p><a href="http://mortenjust.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://mortenjust.com']);">Morten Just</a> wrote a <a href="http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://mortenjust.com']);">blog post</a> describing how he uses it for that purpose, but even more awesomely he&#8217;s shared a <a href="http://docs.google.com/drawings/edit?id=1PplF62IplwQ4SaabsR9P8HAw7mhilR1MTe71QMMr8iA&hl=en_GB" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://docs.google.com']);">drawing</a> with an extensive selection of shapes, stencils, and widgets sitting in the margin ready for use. With the help of this &#8220;wireframe kit,&#8221; Google Drawings really does stack up quite well against dedicated wireframing tools.</p>
+
+<p>Just open the <a href="http://docs.google.com/drawings/edit?id=1PplF62IplwQ4SaabsR9P8HAw7mhilR1MTe71QMMr8iA&hl=en_GB" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://docs.google.com']);">document</a>, select File &ndash;> Make a copy, and you&#8217;re off to the races with a fantastic toolkit containing text input boxes, icons, check boxes, flowchart boxes, tabs, buttons, you name it.</p>
+
+<p>Huge props to Morten for sharing this toolkit with the public.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Fried on Why you Can&#8217;t Work at Work]]></title>
+    <link href="http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work/"/>
+    <updated>2010-03-05T00:00:00+11:00</updated>
+    <id>http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work</id>
+    <content type="html"><![CDATA[<p><a href="http://bigthink.com/videos/why-you-cant-work-at-work">This video</a>, from Jason Fried (<a href="http://twitter.com/jasonFried" >@jasonfried</a>) of <a href="http://37signals.com/">37signals</a>, really hit home with me. I&#8217;m often guilty of being a little quick on the trigger to interrupt people when I have a question or want their input on something. I&#8217;m going to try to put some of this theory into application in my work at SitePoint and see if it helps both me and the rest of the publishing team to focus on getting things done.</p>
+
+<p>What I take away from this, as a practical message, is the following: rely on the asynchronous nature of digital communication media to communicate with co-workers without interrupting their workflow. Simple, but it&#8217;s easy to forget when the person is working right next to you and it&#8217;s so easy to turn around and get their attention.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I Love the Internet: Simple Font Stack Tester]]></title>
+    <link href="http://lsimoneau.github.io/2010/03/04/i-love-the-internet-simple-font-stack-tester/"/>
+    <updated>2010-03-04T00:00:00+11:00</updated>
+    <id>http://lsimoneau.github.io/2010/03/04/i-love-the-internet-simple-font-stack-tester</id>
+    <content type="html"><![CDATA[<p>I <a href="http://www.sitepoint.com/blogs/2010/03/02/keep-your-font-stacks-from-falling-over/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.sitepoint.com']);">blogged about testing font stacks earlier this week at SitePoint</a>, and pointed out a <a href="http://github.com/leeky/Font-Stack-Tester" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://github.com']);">very early-days project on GitHub</a> that seemed to be a first stab at developing a tool to simplify this kind of testing. Today I received an email from a reader, who apparently registered <a href="http://fontstacktester.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://fontstacktester.com']);" target="_blank"><a href="http://fontstacktester.com">http://fontstacktester.com</a></a> and set up a web-based interface for doing just that in the intervening time. The tool is an adaptation of the script I had found on GitHub, except that you can just plug your website address into a box and you&#8217;ll be transported there, except with an overlay at the top that lets you switch off every font on your site individually to see if it breaks anything.</p>
+
+<p>Here&#8217;s what it looks like running against this site:</p>
+
+<p><img class="alignnone size-full wp-image-15" title="Font Stack Tester Example" src="http://lsimoneau.github.io/wp-content/uploads/2010/03/font-stack-tester1.png" alt="" /></a></p>
+
+<p>Kudos to Chris for getting this thing up and running so quickly!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New SitePoint Post: Keep Your Font Stacks from Falling Over]]></title>
+    <link href="http://lsimoneau.github.io/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over/"/>
+    <updated>2010-03-02T00:00:00+11:00</updated>
+    <id>http://lsimoneau.github.io/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over</id>
+    <content type="html"><![CDATA[<p>For most web designers and developers, testing is a huge part of the job. They’ll devote a considerable amount of time ensuring that their sites appear similar, if not identical, in a wide range of browsers. One key part of site testing, however, seems to be all too frequently forgotten: font stack testing.</p>
+
+<p><a href="http://www.sitepoint.com/blogs/2010/03/02/keep-your-font-stacks-from-falling-over/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.sitepoint.com']);">read the rest at sitepoint.com &#8230;</a></p>
+]]></content>
+  </entry>
+  
+</feed>

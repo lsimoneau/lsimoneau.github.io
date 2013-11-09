@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Podcasts | Louis Simoneau]]></title>
+  <link href="http://lsimoneau.github.io/blog/categories/podcasts/atom.xml" rel="self"/>
+  <link href="http://lsimoneau.github.io/"/>
+  <updated>2013-11-09T11:09:00+11:00</updated>
+  <id>http://lsimoneau.github.io/</id>
+  <author>
+    <name><![CDATA[Louis Simoneau]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CBC Radio&#8217;s Ideas Bats One Out the Park]]></title>
+    <link href="http://lsimoneau.github.io/2010/05/12/cbc-radios-ideas-bats-one-out-the-park/"/>
+    <updated>2010-05-12T00:00:00+10:00</updated>
+    <id>http://lsimoneau.github.io/2010/05/12/cbc-radios-ideas-bats-one-out-the-park</id>
+    <content type="html"><![CDATA[<p>A great program all-round, <em>Ideas</em>, from CBC Radio, recently ran a two part round-table discussion on secularism in modern democracies that was just fantastic. A reasoned, in-depth, and principled discussion that steered clear of all the usual empty rhetoric on the topic. If you&#8217;ve got two hours of listening time at any point in the next few weeks, this is most definitely how I&#8217;d recommend you spend them:</p>
+
+<p class="audioplayer_container">
+  <span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_1">Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.adobe.com']);" title="Download Adobe Flash Player">here</a>. You also need to have JavaScript enabled in your browser.</span>
+</p>
+
+
+
+
+<p class="audioplayer_container">
+  <span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_2">Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.adobe.com']);" title="Download Adobe Flash Player">here</a>. You also need to have JavaScript enabled in your browser.</span>
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NUMMI | This American Life]]></title>
+    <link href="http://lsimoneau.github.io/2010/04/14/nummi-this-american-life/"/>
+    <updated>2010-04-14T00:00:00+10:00</updated>
+    <id>http://lsimoneau.github.io/2010/04/14/nummi-this-american-life</id>
+    <content type="html"><![CDATA[<p>Episode 403 of This American Life has a fascinating story about the US auto industry and how GM missed a golden opportunity to correct its course and save itself.</p>
+
+<p>There&#8217;s a lot of interesting business theory in there, but even if that&#8217;s not your thing it&#8217;s great to have a window into this aspect of the history of the 20th and early 21st century.</p>
+
+<p>Highly recommended.</p>
+
+<p><a href="http://www.thisamericanlife.org/radio-archives/episode/403/nummi" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.thisamericanlife.org']);">NUMMI | This American Life</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

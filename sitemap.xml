@@ -2,17 +2,99 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
+            http://lsimoneau.github.io/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over/
+        </loc>
+        <lastmod>2013-11-09T10:46:50+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lsimoneau.github.io/2010/03/04/i-love-the-internet-simple-font-stack-tester/
+        </loc>
+        <lastmod>2013-11-09T11:00:04+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work/</loc>
+        <lastmod>2013-11-09T11:03:10+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2010/04/09/trust-agents-review/</loc>
+        <lastmod>2013-11-09T10:46:50+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2010/04/14/nummi-this-american-life/</loc>
+        <lastmod>2013-11-09T10:46:50+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2010/04/19/free-wireframe-kit-for-google-drawings/</loc>
+        <lastmod>2013-11-09T10:46:50+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lsimoneau.github.io/2010/05/10/webby-award-winners-for-design-flashblock-edition/
+        </loc>
+        <lastmod>2013-11-09T11:08:51+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2010/05/12/cbc-radios-ideas-bats-one-out-the-park/</loc>
+        <lastmod>2013-11-09T10:46:50+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2010/09/16/joell-ortiz-farewell-to-summer-ep/</loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lsimoneau.github.io/2010/10/04/this-is-a-news-website-story-about-a-scientific-paper/
+        </loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2011/10/11/the-true-cost-of-commuting/</loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2011/10/26/plato-on-ows/</loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lsimoneau.github.io/2012/02/02/keeping-time-on-frequently-suspended-virtual-machines/
+        </loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/2012/02/05/i-%e2%99%a5-tomato-season/</loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lsimoneau.github.io/2012/10/04/postgresql-system-trigger-error-with-rails/
+        </loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lsimoneau.github.io/2013/04/08/quarterly-reading-list-january-march-2013/
+        </loc>
+        <lastmod>2013-11-09T10:46:52+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
             http://lsimoneau.github.io/2013/10/25/whats-the-worst-mistake-im-empowered-to-make/
         </loc>
-        <lastmod>2013-10-25T22:11:41+11:00</lastmod>
+        <lastmod>2013-11-09T11:04:45+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lsimoneau.github.io/about/</loc>
+        <lastmod>2013-11-09T10:46:50+11:00</lastmod>
     </url>
     <url>
         <loc>http://lsimoneau.github.io/blog/archives/</loc>
-        <lastmod>2013-10-25T22:11:41+11:00</lastmod>
+        <lastmod>2013-11-09T11:08:51+11:00</lastmod>
     </url>
     <url>
         <loc>http://lsimoneau.github.io/</loc>
-        <lastmod>2013-10-25T22:11:41+11:00</lastmod>
+        <lastmod>2013-11-09T11:08:51+11:00</lastmod>
     </url>
     <url>
         <loc>http://lsimoneau.github.io/robots.txt</loc>
