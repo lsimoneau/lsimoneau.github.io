@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's the worst mistake I'm empowered to make?"
+title: "What’s the worst mistake I’m empowered to make?"
 date: 2013-10-25 21:39
 comments: true
 published: true
