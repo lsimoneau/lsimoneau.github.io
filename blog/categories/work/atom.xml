@@ -4,7 +4,7 @@
   <title><![CDATA[Category: work | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/work/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2013-11-09T11:22:23+11:00</updated>
+  <updated>2014-01-12T09:19:36+11:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
@@ -26,7 +26,7 @@
 
 <p>As soon as I came up with that answer, I realized I actually spend quite a lot of time thinking about it. Ever since the first time I shelled in to a production server, and not infrequently since, this little voice at the back of my head asks: <em>Are you about to hose any data?</em> Every time I&rsquo;m running complex migrations, or implement a new feature that alters data in a major why, it&rsquo;s always there: <em>Don&rsquo;t do the wost thing you could possibly do.</em></p>
 
-<p>Let me be clear: avoiding catastrophic fuckups isn&rsquo;t what I consider the hallmark of a great software developer, or a great anything for that matter. To be <em>great</em>, you need to succeed greatly, not simply avoid failure. But coming back to the example of the pub: this was a <em>really good</em> pub. Fantastic selection of craft beers, best pizzas in the area by a wide margin, and a very welcoming atmosphere. But I still won&rsquo;t be going back there, because, well, obviously: they poisonned a friend of mine.</p>
+<p>Let me be clear: avoiding catastrophic fuckups isn&rsquo;t what I consider the hallmark of a great software developer, or a great anything for that matter. To be <em>great</em>, you need to succeed greatly, not simply avoid failure. But coming back to the example of the pub: this was a <em>really good</em> pub. Fantastic selection of craft beers, best pizzas in the area by a wide margin, and a very welcoming atmosphere. But I still won&rsquo;t be going back there, because, well, obviously: they poisoned a friend of mine.</p>
 
 <p>So it&rsquo;s probably worth spending a little bit of time, every once in awhile, asking yourself what the worst possible mistake you&rsquo;re empowered to make is. And putting in place whatever safeguards seem reasonable to stop yourself from making it.</p>
 ]]></content>
