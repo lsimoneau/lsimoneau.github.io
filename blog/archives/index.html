@@ -10,7 +10,7 @@
 
   
   <meta name="description" content="Blog Archive 2014 Debugging Scroll Event Issues in Capybara/Poltergeist
-Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &hellip;">
+Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the Worst Mistake I &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -25,7 +25,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
   <link href="/atom.xml" rel="alternate" title="Louis Simoneau" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -98,7 +98,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 
 <article>
   
-<h1><a href="/2013/10/25/whats-the-worst-mistake-im-empowered-to-make/">What’s the worst mistake I’m empowered to make?</a></h1>
+<h1><a href="/2013/10/25/whats-the-worst-mistake-im-empowered-to-make/">What’s the Worst Mistake I’m Empowered to Make?</a></h1>
 <time datetime="2013-10-25T21:39:00+11:00" pubdate><span class='month'>Oct</span> <span class='day'>25</span> <span class='year'>2013</span></time>
 
 <footer>
@@ -129,7 +129,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 
 <article>
   
-<h1><a href="/2012/10/04/postgresql-system-trigger-error-with-rails/">PostgreSQL System Trigger Error with Rails</a></h1>
+<h1><a href="/2012/10/04/postgresql-system-trigger-error-with-rails/">PostgreSQL System Trigger Error With Rails</a></h1>
 <time datetime="2012-10-04T00:00:00+10:00" pubdate><span class='month'>Oct</span> <span class='day'>04</span> <span class='year'>2012</span></time>
 
 <footer>
@@ -188,7 +188,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 
 <article>
   
-<h1><a href="/2011/10/11/the-true-cost-of-commuting/">The true cost of commuting</a></h1>
+<h1><a href="/2011/10/11/the-true-cost-of-commuting/">The True Cost of Commuting</a></h1>
 <time datetime="2011-10-11T00:00:00+11:00" pubdate><span class='month'>Oct</span> <span class='day'>11</span> <span class='year'>2011</span></time>
 
 <footer>
@@ -205,7 +205,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 
 <article>
   
-<h1><a href="/2010/10/04/this-is-a-news-website-story-about-a-scientific-paper/">This is a news website story about a scientific paper</a></h1>
+<h1><a href="/2010/10/04/this-is-a-news-website-story-about-a-scientific-paper/">This Is a News Website Story About a Scientific Paper</a></h1>
 <time datetime="2010-10-04T00:00:00+11:00" pubdate><span class='month'>Oct</span> <span class='day'>04</span> <span class='year'>2010</span></time>
 
 <footer>
@@ -303,7 +303,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 
 <article>
   
-<h1><a href="/2010/03/05/jason-fried-on-why-you-cant-work-at-work/">Jason Fried on Why you Can&#8217;t Work at Work</a></h1>
+<h1><a href="/2010/03/05/jason-fried-on-why-you-cant-work-at-work/">Jason Fried on Why You Can&#8217;t Work at Work</a></h1>
 <time datetime="2010-03-05T00:00:00+11:00" pubdate><span class='month'>Mar</span> <span class='day'>05</span> <span class='year'>2010</span></time>
 
 <footer>
@@ -331,7 +331,7 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 
 <article>
   
-<h1><a href="/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over/">New SitePoint Post: Keep Your Font Stacks from Falling Over</a></h1>
+<h1><a href="/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over/">New SitePoint Post: Keep Your Font Stacks From Falling Over</a></h1>
 <time datetime="2010-03-02T00:00:00+11:00" pubdate><span class='month'>Mar</span> <span class='day'>02</span> <span class='year'>2010</span></time>
 
 <footer>
@@ -378,9 +378,32 @@ Jan 12 2014 posted in capybara, rails,, tdd, 2013 What’s the worst mistake I &
 </section>
 
 <section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
   
   <a href="https://github.com/lsimoneau">@lsimoneau</a> on GitHub
   
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'lsimoneau',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
