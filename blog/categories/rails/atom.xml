@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: rails, | Louis Simoneau]]></title>
+  <title><![CDATA[Category: Rails, | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2014-03-09T08:00:42+11:00</updated>
+  <updated>2014-03-09T08:09:01+11:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
