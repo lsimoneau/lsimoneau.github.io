@@ -23,7 +23,9 @@ While I don't really have much more difficulty remembering facts, or marshalling
 
 This is where TDD comes in. As Katrina Owen astutely points out in her excellent talk [Therapeutic Refactoring](http://www.youtube.com/watch?v=J4dlF0kcThQ), _refactoring with tests makes you smarter_:
 
-> You offload a bunch of those little details, that under normal circumstances go into working memory, into your tests. Once you start refactoring, you start reclaiming your brain.
+{% blockquote Katrina Owen http://www.youtube.com/watch?v=J4dlF0kcThQ Therapeutic Refactoring %}
+You offload a bunch of those little details, that under normal circumstances go into working memory, into your tests. Once you start refactoring, you start reclaiming your brain.
+{% endblockquote %}
 
 TDD greatly reduces the demands that developing software places on your working memory, since you're in effect planting signposts for yourself as you go along, each one showing you the next step you need to take.
 
