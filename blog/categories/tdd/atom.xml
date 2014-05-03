@@ -4,7 +4,7 @@
   <title><![CDATA[Category: TDD | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/tdd/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2014-05-03T15:35:03+08:00</updated>
+  <updated>2014-05-03T18:24:08+08:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
@@ -34,7 +34,7 @@
 
 <p>This is where TDD comes in. As Katrina Owen astutely points out in her excellent talk <a href="http://www.youtube.com/watch?v=J4dlF0kcThQ">Therapeutic Refactoring</a>, <em>refactoring with tests makes you smarter</em>:</p>
 
-<blockquote><p>You offload a bunch of those little details, that under normal circumstances go into working memory, into your tests. Once you start refactoring, you start reclaiming your brain.</p></blockquote>
+<p><blockquote><p>You offload a bunch of those little details, that under normal circumstances go into working memory, into your tests. Once you start refactoring, you start reclaiming your brain.</p><footer><strong>Katrina Owen <a href="http://www.youtube.com/watch?v=J4dlF0kcThQ">http://www.youtube.com/watch?v=J4dlF0kcThQ</a> Therapeutic Refactoring</strong></footer></blockquote></p>
 
 <p>TDD greatly reduces the demands that developing software places on your working memory, since you&rsquo;re in effect planting signposts for yourself as you go along, each one showing you the next step you need to take.</p>
 
@@ -50,7 +50,7 @@
 
 <p>I truly believe that TDD helps you write better, less tightly coupled software. I believe that it protects you from bugs and regressions, and that it can be a huge help in refactoring your code to be more expressive and readable. But for me, this past year, I would still have practiced TDD even if none of those things were true. Because TDD is a reliable methodology for producing code that does what it&rsquo;s supposed to do. Because if you have sufficient knowledge of the language you&rsquo;re working in, the patterns of software design, and the domain of your application, you can apply that process and make good software even on the kind of day where you have a hard time making breakfast.</p>
 
-<p>And on days when you <em>are</em> your very best, you still win. That extra working memory you now have available can be used to think about the high-level design of your system, the expresiveness of the method you&rsquo;re writing, etcetera. Because you&rsquo;ve grown accustomed to not trying to remember everything about the class you&rsquo;re working on and its collaborators, because <em>that information is in your tests</em>, you&rsquo;re free to use that extra mental RAM on more rewarding efforts.</p>
+<p>And on days when you <em>are</em> your very best, you still win. That extra working memory you now have available can be used to think about the high-level design of your system, the expresiveness of the method you&rsquo;re writing, <em>et cetera</em>. Because you&rsquo;ve grown accustomed to not trying to remember everything about the class you&rsquo;re working on and its collaborators, because <em>that information is in your tests</em>, you&rsquo;re free to use that extra mental RAM on more rewarding efforts.</p>
 
 <h2>Keep your Skills Sharp for When your Brain Isn&rsquo;t</h2>
 
