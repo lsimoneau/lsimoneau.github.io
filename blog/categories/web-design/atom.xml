@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web Design | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/web-design/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2014-03-09T08:09:01+11:00</updated>
+  <updated>2014-05-03T15:35:03+08:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Webby Award Winners for Design, Flashblock Edition]]></title>
     <link href="http://lsimoneau.github.io/2010/05/10/webby-award-winners-for-design-flashblock-edition/"/>
-    <updated>2010-05-10T00:00:00+10:00</updated>
+    <updated>2010-05-10T00:00:00+08:00</updated>
     <id>http://lsimoneau.github.io/2010/05/10/webby-award-winners-for-design-flashblock-edition</id>
     <content type="html"><![CDATA[<p>Last week the winners of the <a href="http://www.webbyawards.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.webbyawards.com']);">2010 Webby awards</a> were announced. Jennifer Farley, one of the staff bloggers at SitePoint (where I work), recently <a href="http://www.sitepoint.com/blogs/2010/05/09/webby-award-winners-design/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.sitepoint.com']);">posted a breakdown</a> of five of the winners in design-related categories, along with her impressions of the sites in question. I think that&#8217;s a great idea, so I&#8217;m going to write my own version of that post, examining the same five winning sites.</p>
 
@@ -65,7 +65,7 @@
   <entry>
     <title type="html"><![CDATA[Free Wireframe Kit for Google Drawings]]></title>
     <link href="http://lsimoneau.github.io/2010/04/19/free-wireframe-kit-for-google-drawings/"/>
-    <updated>2010-04-19T00:00:00+10:00</updated>
+    <updated>2010-04-19T00:00:00+08:00</updated>
     <id>http://lsimoneau.github.io/2010/04/19/free-wireframe-kit-for-google-drawings</id>
     <content type="html"><![CDATA[<p>I&#8217;m a big fan of <a href="http://gomockingbird.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://gomockingbird.com']);">Mockingbird</a> for creating quick mockups and wireframes. It&#8217;s free, it&#8217;s online, and it does just about everything you want it to do.</p>
 
@@ -80,9 +80,9 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Jason Fried on Why You Can&#8217;t Work at Work]]></title>
+    <title type="html"><![CDATA[Jason Fried on Why you Can&#8217;t Work at Work]]></title>
     <link href="http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work/"/>
-    <updated>2010-03-05T00:00:00+11:00</updated>
+    <updated>2010-03-05T00:00:00+08:00</updated>
     <id>http://lsimoneau.github.io/2010/03/05/jason-fried-on-why-you-cant-work-at-work</id>
     <content type="html"><![CDATA[<p><a href="http://bigthink.com/videos/why-you-cant-work-at-work">This video</a>, from Jason Fried (<a href="http://twitter.com/jasonFried" >@jasonfried</a>) of <a href="http://37signals.com/">37signals</a>, really hit home with me. I&#8217;m often guilty of being a little quick on the trigger to interrupt people when I have a question or want their input on something. I&#8217;m going to try to put some of this theory into application in my work at SitePoint and see if it helps both me and the rest of the publishing team to focus on getting things done.</p>
 
@@ -93,7 +93,7 @@
   <entry>
     <title type="html"><![CDATA[I Love the Internet: Simple Font Stack Tester]]></title>
     <link href="http://lsimoneau.github.io/2010/03/04/i-love-the-internet-simple-font-stack-tester/"/>
-    <updated>2010-03-04T00:00:00+11:00</updated>
+    <updated>2010-03-04T00:00:00+08:00</updated>
     <id>http://lsimoneau.github.io/2010/03/04/i-love-the-internet-simple-font-stack-tester</id>
     <content type="html"><![CDATA[<p>I <a href="http://www.sitepoint.com/blogs/2010/03/02/keep-your-font-stacks-from-falling-over/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.sitepoint.com']);">blogged about testing font stacks earlier this week at SitePoint</a>, and pointed out a <a href="http://github.com/leeky/Font-Stack-Tester" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://github.com']);">very early-days project on GitHub</a> that seemed to be a first stab at developing a tool to simplify this kind of testing. Today I received an email from a reader, who apparently registered <a href="http://fontstacktester.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://fontstacktester.com']);" target="_blank"><a href="http://fontstacktester.com">http://fontstacktester.com</a></a> and set up a web-based interface for doing just that in the intervening time. The tool is an adaptation of the script I had found on GitHub, except that you can just plug your website address into a box and you&#8217;ll be transported there, except with an overlay at the top that lets you switch off every font on your site individually to see if it breaks anything.</p>
 
@@ -106,9 +106,9 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[New SitePoint Post: Keep Your Font Stacks From Falling Over]]></title>
+    <title type="html"><![CDATA[New SitePoint Post: Keep Your Font Stacks from Falling Over]]></title>
     <link href="http://lsimoneau.github.io/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over/"/>
-    <updated>2010-03-02T00:00:00+11:00</updated>
+    <updated>2010-03-02T00:00:00+08:00</updated>
     <id>http://lsimoneau.github.io/2010/03/02/new-sitepoint-post-keep-your-font-stacks-from-falling-over</id>
     <content type="html"><![CDATA[<p>For most web designers and developers, testing is a huge part of the job. They’ll devote a considerable amount of time ensuring that their sites appear similar, if not identical, in a wide range of browsers. One key part of site testing, however, seems to be all too frequently forgotten: font stack testing.</p>
 

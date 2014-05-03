@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Work | Louis Simoneau]]></title>
+  <title><![CDATA[Category: work | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/work/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2014-03-09T08:09:01+11:00</updated>
+  <updated>2014-05-03T15:35:03+08:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[What’s the Worst Mistake I’m Empowered to Make?]]></title>
+    <title type="html"><![CDATA[What’s the worst mistake I’m empowered to make?]]></title>
     <link href="http://lsimoneau.github.io/2013/10/25/whats-the-worst-mistake-im-empowered-to-make/"/>
-    <updated>2013-10-25T21:39:00+11:00</updated>
+    <updated>2013-10-25T21:39:00+08:00</updated>
     <id>http://lsimoneau.github.io/2013/10/25/whats-the-worst-mistake-im-empowered-to-make</id>
     <content type="html"><![CDATA[<p>A few days ago a coworker of mine ordered a glass of beer in a pub while waiting for some pizzas to bring back to the office. After taking a big gulp, he immediately felt a burning sensation in his mouth and throat, and knew something was wrong. It turned out that the pub had recently cleaned the beer tap lines with a potent cleaning fluid, and it hadn&rsquo;t all been flushed out. The result was that my friend spent a night in the hospital, and was unable to eat anything for over a day due to the swelling and pain in his throat. It&rsquo;s still not totally clear what his path to recovery will be like.</p>
 

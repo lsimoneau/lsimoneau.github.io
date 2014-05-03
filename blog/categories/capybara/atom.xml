@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Capybara | Louis Simoneau]]></title>
+  <title><![CDATA[Category: capybara | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/capybara/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2014-03-09T08:09:01+11:00</updated>
+  <updated>2014-05-03T15:35:03+08:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Debugging Scroll Event Issues in Capybara/Poltergeist]]></title>
     <link href="http://lsimoneau.github.io/2014/01/12/debugging-scroll-event-issues-in-capybara-slash-poltergeist/"/>
-    <updated>2014-01-12T08:22:00+11:00</updated>
+    <updated>2014-01-12T08:22:00+08:00</updated>
     <id>http://lsimoneau.github.io/2014/01/12/debugging-scroll-event-issues-in-capybara-slash-poltergeist</id>
     <content type="html"><![CDATA[<p>I came across a particularly tricky issue with one of my integration tests using <a href="https://github.com/jnicklas/capybara">capybara</a> and <a href="https://github.com/jonleighton/poltergeist">poltergeist</a> this week, so I thought I&rsquo;d write it up for the benefit of anyone else encountering a similar problem.</p>
 

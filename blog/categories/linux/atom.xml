@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Linux | Louis Simoneau]]></title>
   <link href="http://lsimoneau.github.io/blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://lsimoneau.github.io/"/>
-  <updated>2014-03-09T08:09:01+11:00</updated>
+  <updated>2014-05-03T15:35:03+08:00</updated>
   <id>http://lsimoneau.github.io/</id>
   <author>
     <name><![CDATA[Louis Simoneau]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Keeping Time on Frequently-suspended Virtual Machines]]></title>
     <link href="http://lsimoneau.github.io/2012/02/02/keeping-time-on-frequently-suspended-virtual-machines/"/>
-    <updated>2012-02-02T00:00:00+11:00</updated>
+    <updated>2012-02-02T00:00:00+08:00</updated>
     <id>http://lsimoneau.github.io/2012/02/02/keeping-time-on-frequently-suspended-virtual-machines</id>
     <content type="html"><![CDATA[<p>When everyone else&#8217;s git commits start showing up as &#8220;in the future,&#8221; you know something&#8217;s wrong.</p>
 
