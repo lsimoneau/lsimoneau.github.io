@@ -3,7 +3,7 @@ layout: post
 title: "Debugging Scroll Event Issues in Capybara/Poltergeist"
 date: 2014-01-12 08:22
 comments: true
-categories: rails, tdd, capybara
+categories: rails TDD capybara
 ---
 
 I came across a particularly tricky issue with one of my integration tests using [capybara](https://github.com/jnicklas/capybara) and [poltergeist](https://github.com/jonleighton/poltergeist) this week, so I thought I'd write it up for the benefit of anyone else encountering a similar problem.
