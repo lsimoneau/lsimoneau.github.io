@@ -24,18 +24,20 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: thelehhman/texture
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
+show_excerpts: true
 
-texture:
-  title: Louis Simoneau
-  tagline: Tech Lead & Software Architect
-  style: black
+plainwhite:
+  name: Louis Simoneau
+  tagline: |
+    Tech Lead &
+    Software Architect
 
   social_links:
-    twitter: louis_simoneau
-    github: lsimoneau
+    twitter: lsimoneau
+    github: louis_simoneau
     linkedIn: in/louissimoneau # format: locale/username
 
 # Exclude from processing.
