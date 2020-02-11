@@ -1,0 +1,7 @@
+---
+layout: post
+title:  New Blog
+date:   2020-02-11 10:48:20 +1100
+---
+
+The old blog hadn't been updated in over four years and the content was no longer relevant, so I'm starting over.
